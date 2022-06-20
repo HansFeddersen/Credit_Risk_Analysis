@@ -40,4 +40,4 @@ For each model, the following results were obtained:
 
 **Summary**
 
-All of the resampling models (Random Oversampling, Smote Oversampling, ClusterCentroids and SMOTEENN) show low accuracy levels with values that are close to 60% or less in some cases. On the other hand, the ensemble models show a larger accuracy (more than 90%).
+All of the resampling models (Random Oversampling, Smote Oversampling, ClusterCentroids and SMOTEENN) show low accuracy levels with values that are close to 60% or less in some cases. On the other hand, the ensemble models show a larger accuracy, with the EasyEnsemble Classifier having the largest accuracy of all the models (more than 90%).
